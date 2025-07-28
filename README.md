@@ -1,0 +1,2 @@
+# FastGram
+Fast Telegram Client
